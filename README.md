@@ -17,7 +17,7 @@ The repository is organized to separate analysis from dependency management:
 * `requirements.txt`: Contains the list of Python dependencies required to run the analysis environments.
 
 
-* `Analysis/`: The root directory for project files.
+* `Analysis/`: Contains the analysis plots.
 
 
 
