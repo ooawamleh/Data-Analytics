@@ -46,6 +46,11 @@ This project covers the three fundamental pillars of data analytics:
 
 * Compared model performance (Linear Regression, Random Forest, SVR) using RMSE, MAE, MSE, and R-Squared evaluation metrics.
 
+#### Model Evaluation:
+The performance optimization tracking across different feature spaces demonstrates the exact validation metrics achieved by the algorithms:
+
+![Predictive Models Performance Comparison](Analysis/forward sequential.png)
+
 
 
 
